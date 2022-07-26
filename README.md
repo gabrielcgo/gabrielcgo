@@ -12,11 +12,12 @@
 
 Welcome to my GitHub profile 😄
 
-Check my projects in my repository! 
+- 🌱 I’m currently learning **Python, Machine Learning and SQL**
+- 📥 Check my projects in my repository! 
 
-I'll be happy if you send me a message on the channels below, don't hesitate!
+Send me a message on the channels below... 
 
-<h4>Where You can find me: 👇👇👇</h4>
+<h4>You can find me here: 👇👇👇</h4>
 
 *   Discord: [Chat me](https://discord.com/channels/702499699055263795)
 
